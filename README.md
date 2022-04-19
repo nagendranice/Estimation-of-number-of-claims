@@ -5,14 +5,14 @@ CAS dataset : https://drive.google.com/file/d/1EZtbM81i7UdJzDdglA42biqW4BHcZThm/
 CAS modified : https://drive.google.com/file/d/1hICGovyMlycn673JMPQuvUI1L0bkOYXj/view?usp=sharing 
 
 ## cas-eda  
-Contains the Exploratory Data Analysis of The CAS dataset \
+Contains the Exploratory Data Analysis of The CAS dataset 
 ## cas-preprocessing 
-Contains the data cleaning and preprocessing \
+Contains the data cleaning and preprocessing 
 ## cas-modeling 
-Contains the Poisson GLM and Quasi-Poisson GLM and their outputs \
+Contains the Poisson GLM and Quasi-Poisson GLM and their outputs 
 ## cas-modeling2 
-Contains the Logistic Regression and SMOTE analysisa and Results \
+Contains the Logistic Regression and SMOTE analysisa and Results 
 ## cas-nn 
-Contains the Neural Network model applied on the dataset \
+Contains the Neural Network model applied on the dataset 
 ## cas-modeling3 
 Just another version of cas-modeling with few changes 
