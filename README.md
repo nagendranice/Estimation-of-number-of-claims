@@ -14,5 +14,4 @@ Contains the Poisson GLM and Quasi-Poisson GLM and their outputs
 Contains the Logistic Regression and SMOTE analysisa and Results 
 ## CAS_NN 
 Contains the Neural Network model applied on the dataset 
-## CAS - Modelling 3 
-Just another version of cas-modeling with few changes 
+
